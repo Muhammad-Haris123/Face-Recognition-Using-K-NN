@@ -1,1 +1,1 @@
-Hello
+This project implements a face recognition system using the k-Nearest Neighbors (KNN) algorithm. It leverages Principal Component Analysis (PCA) for dimensionality reduction, enabling efficient and accurate classification of face images. The project also includes performance comparisons with Support Vector Machine (SVM) and Gaussian Naive Bayes (GNB) classifiers.
